@@ -1,6 +1,3 @@
-@import url(./__paragraph/button__paragraph.css);
-@import url(./__link/button__link.css);
-
 .button {
     grid-area: button;
 }
