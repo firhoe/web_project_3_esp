@@ -1,0 +1,21 @@
+.button__paragraph {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    text-align: center;
+    width: 100%;
+    height: 48px;
+    background: #0278FE;
+    background-size: cover;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (min-width: 1025px) {
+    .button__paragraph {
+        width: 355px;
+    }
+}

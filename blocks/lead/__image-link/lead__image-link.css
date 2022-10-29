@@ -1,0 +1,7 @@
+.lead__image-link {
+    transition: opacity 0.3s linear;
+}
+
+.lead__image-link:hover {
+    opacity: 0.6;
+}

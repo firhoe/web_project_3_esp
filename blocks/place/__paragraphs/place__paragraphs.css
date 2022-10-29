@@ -1,0 +1,31 @@
+.place__paragraphs {
+    grid-area: content;
+    box-sizing: border-box;
+    max-height: 508px;
+    margin: 0;
+    padding: 0;
+}
+/* MODIFIQUE ESTO AHORA MISMO */
+@media screen and (max-width: 999px) {
+    .place__paragraphs {
+        max-height: initial;
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    .place__paragraphs {
+        max-height: initial;
+    }
+}
+
+
+@media screen and (max-width: 425px) {
+    .place__paragraphs {
+        padding: 0 16px;
+    }
+}
+
+
+
+

@@ -1,0 +1,7 @@
+.button__link {
+    transition: background-color 0.3s linear;
+}
+
+.button__link:hover {
+    background-color: #0063D2;
+}

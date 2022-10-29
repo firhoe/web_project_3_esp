@@ -1,0 +1,7 @@
+.cover__button {
+    width: 200px;
+    margin: auto;
+    position: relative;
+    z-index: 1;
+}
+

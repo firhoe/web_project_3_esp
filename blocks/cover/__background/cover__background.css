@@ -1,0 +1,6 @@
+.cover__background {
+    background-image: url(../../../images/green-field.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+}

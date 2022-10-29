@@ -1,19 +1,47 @@
 # Project 3: De patria a patria
-### Descripción general    
-* Introducción  
-* Figma  
-* Imágenes  
+
+### Descripción general ⚙️   
+
+Este proyecto es un sitio web responsivo sobre los lugares de recidencia de diversos miembros del Bootcamp de Practicum.
+Recorriendo gran numero de paises en todos los continentes. 
+
+![de-patria-a-patria](https://media.giphy.com/media/AcfqP7EBgbr4HDhsAO/giphy.gif) 
+
+## Construido con 🛠️
+
+1. HTML (Hyper Text Markup Language)
+2. CSS (Cascading Style Sheets)
+
+**Herramientas Extra**
+
+* [Figma](https://figma.com/) 
+* [TinyPng](https://tinypng.com/)  
+* [SVGOMG](https://jakearchibald.github.io/svgomg/)  
   
-**Introducción**    
+## Conceptos Utilizados 📦
+
+1. Diseño Responsivo 
+   - El sitio web se ha desarrollado siguiendo el primer enfoque de un dispositivo móvil.
+   - El sitio web está diseñado para escalar sin problemas en:
+     - 1280px y superior (portátiles estándar y superiores).
+     - De 1024px a 1280px (desde una tablet en horizontal hasta un portátil estándar).
+     - De 768px a 1024px (de una tablet en vertical a una tablet en horizontal).
+     - De 425px a 768px (desde un gran smartphone hasta una tablet en vertical).
+     - Hasta 425px (dispositivos móviles).
+2. CCS Grid
+3. CCS Flexbox
+4. Optimización de fuentes para dispositivos con diferentes resoluciones
+5. BEM - Block, Element, Modifier
   
-Este es un proyecto que muestra las ciudades natales de algunos de los empleados de Practicum. Lo hemos diseñado de tal modo que todos los elementos se muestren correctamente en los tamaños de pantalla más habituales. Recomendamos invertir más tiempo en completar este proyecto, ya que es más difícil que los anteriores.     
+**Documento con Especificaciones del Proyecto**  
   
-**Figma**  
+* [Proyecto en Figma](https://www.figma.com/file/ZW8wxTYTZH2czTTfDMVHWq/WEB%2C-Sprint-3-%3A-De-patria-a-patria-%7C-desktop-%2B-mobile?node-id=0%3A1)  
   
-* [Enlace al proyecto en Figma](https://www.figma.com/file/ZW8wxTYTZH2czTTfDMVHWq/WEB%2C-Sprint-3-%3A-De-patria-a-patria-%7C-desktop-%2B-mobile?node-id=0%3A1)  
-  
-**Imágenes**  
-  
-A la hora de trabajar, debes optar por exportar las imágenes directamente desde Figma; te recomendamos hacerlo para practicar más. No olvides optimizarlas [aquí](https://tinypng.com/), para que tu proyecto cargue más rápido.   
-  
-¡Mucha suerte y que te lo pases bien! 
+## Mejoras futuras 🔍
+
+1. Agregar videos e iframes a la página web.
+2. Incluir formularios que permitan al usuario enviar comentarios.
+
+## Proyecto en Vivo 💻 
+
+* [Disfrutalo en vivo!]()  

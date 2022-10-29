@@ -1,0 +1,13 @@
+@import url(./__paragraph/button__paragraph.css);
+@import url(./__link/button__link.css);
+
+.button {
+    grid-area: button;
+}
+
+@media screen and (max-width: 425px) {
+    .button {
+        width: 100%;
+        padding: 0 16px;
+    }
+}
