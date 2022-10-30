@@ -1,5 +1,7 @@
 .button {
     grid-area: button;
+    background-color: transparent;
+    border: none;
 }
 
 @media screen and (max-width: 425px) {
